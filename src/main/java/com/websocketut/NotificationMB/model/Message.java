@@ -1,4 +1,4 @@
-package model;
+package com.websocketut.NotificationMB.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
